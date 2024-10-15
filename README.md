@@ -1,3 +1,4 @@
+
 <h2 align="left">Hi 👋! My name is Oscar Gonzalez and I'm a computer engineer and Dev web Front-End from Chile</h2>
 
 ###
@@ -33,7 +34,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
@@ -52,12 +53,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/OscarIGonzalezG/OscarIGonzalezG/output/snake.svg" alt="Snake animation" />
 
 ###
 
