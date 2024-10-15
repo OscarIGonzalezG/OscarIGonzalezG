@@ -1,23 +1,11 @@
-# <h1> <>Hola Mundo</> Mi nombre es Oscar Gonzalez </h1>
-<p>
-<a href="https://www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"/></a>  
-<a href="https://github.com/OscarIGonzalezG" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/></a>
+<h1 align="center">Hola 👋, soy Oscar González</h1>
+<h3 align="center">Un apasionado desarrollador frontend de Chile</h3>
+
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/oscar.gonzalez.695946" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/oscar.gonzalez.695946" height="30" width="40" /></a>
 </p>
 
-- 🎓 Passionate about **Data Science** and continuously learning new techniques.
-- 📦 Specialist in Logistics and Inventory Management, with a strong background in Warehousing, Distribution Tracking, Stock Control, and Supply Planning and Dispatch.
-- 💻 Currently enhancing my skills in **Python** for data analysis, and automation for solving complex business challenges.
-- 🌱 I enjoy skateboarding and chess.
-
-## Skills
-| Lenguages                                                                                                                                                                | 
-|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a> <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a> |
-
-## Projects
-- 🔍 [Data exploration with Python](https://github.com/FranciscoYuster/EDAwPy)  
-  The repository focuses on data exploration and analysis, using data cleaning, visualization, and transformation techniques.
-- 👩🏻‍💻 [Inventory System](https://github.com/FranciscoYuster/Inventory)  (Cooming Soon)
-  A managament inventory system
-- 📊 [World GDP Report ](https://github.com/FranciscoYuster/reportgdp)
-  A Python project analyzing global GDP data from 1960 to 2023 using the World Bank API.
+<h3 align="left">Idiomas y herramientas:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/es-es/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/es-ES/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" ancho="40" alto="40"/> </a> <a href="https://www.linux.org/" destino="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" ancho="40" alto="40"/> </a> <a href="https://www.mysql.com/" destino="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.es/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" ancho="40" alto="40"/> </a> <a href="https://www.python.org" destino="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" ancho="40" alto="40"/> </a> <a href="https://www.typescriptlang.org/" destino="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" ancho="40" alto="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unidad" width="40" height="40"/> </a></p>
