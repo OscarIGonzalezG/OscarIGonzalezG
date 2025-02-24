@@ -42,7 +42,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
   <img width="12" />
