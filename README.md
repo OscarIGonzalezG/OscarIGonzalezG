@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Oscar Gonzalez and I'm a computer engineer and Dev web Front-End from Chile</h2>
+<h2 align="left">Hi 👋! My name is Oscar Gonzalez and I'm a computer engineer and Dev web Full-Stack from Chile</h2>
 
 ###
 
