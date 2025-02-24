@@ -46,7 +46,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
   <img width="12" />
