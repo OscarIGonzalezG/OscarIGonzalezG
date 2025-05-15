@@ -20,9 +20,6 @@
   <a href="oscargonzalez.gon91@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.facebook.com/oscar.gonzalez.695946" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="50" height="40" alt="facebook logo"  />
-  </a>
 </div>
 
 ###
