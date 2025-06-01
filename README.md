@@ -1,63 +1,64 @@
-<h2 align="left">Hi 👋! My name is Oscar Gonzalez and I'm a computer engineer and Dev web Full-Stack from Chile</h2>
+<p align="center">
+  <img src="URL_DEL_BANNER_PERSONALIZADO" alt="Oscar González Banner" width="100%"/>
+</p>
 
-###
+# 👋 ¡Hola! Soy Oscar González
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OscarIGonzalezG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OscarIGonzalezG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+**Ingeniero en Informática | En transición al desarrollo de software | Especialista en soporte TI e infraestructura**
 
-###
+Con más de 5 años de experiencia en el área de soporte, administración de servidores, redes y tecnologías Microsoft, actualmente estoy enfocándome en el desarrollo fullstack con Java, TypeScript y tecnologías modernas como Next.js. Me apasiona aprender, construir soluciones útiles y crecer profesionalmente en el mundo del desarrollo.
 
-<br clear="both">
+---
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="40" alt="twitter logo"  />
-  <a href="https://www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="oscargonzalez.gon91@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail logo"  />
-  </a>
-</div>
+## 💡 Experiencia destacada
 
-###
+- 🖥️ **Soporte Técnico TI** en empresas del sector público y privado, brindando soluciones en redes, servidores Windows/Linux y mantenimiento de infraestructura.
+- ⚙️ **Implementación y administración de Active Directory, Hyper-V, DNS y servidores de correo.**
+- 🌐 **Gestión de plataformas Microsoft 365 y herramientas de colaboración empresarial.**
 
-<br clear="both">
+---
 
-<img align="left" height="150" src="https://cdn.dribbble.com/users/600557/screenshots/3625204/untitled-1.gif"  />
+## 🚀 Tecnologías y herramientas
 
-###
+### 💻 Backend & Infraestructura
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
-</div>
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-###
+### 🎨 Frontend
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/OscarIGonzalezG/count.svg?"  />
-</div>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 
-###
+### 🛠️ Otros conocimientos
+
+- Microsoft 365 / Active Directory / Windows Server
+- Redes y soporte técnico
+- Git / GitHub
+- Virtualización con Hyper-V
+- Automatización con scripts
+
+---
+
+## 🎯 Objetivo profesional
+
+Estoy en proceso de transición hacia el desarrollo de software, aplicando mis conocimientos previos de TI para convertirme en un desarrollador backend o fullstack. Me interesa formar parte de equipos donde pueda seguir aprendiendo, crecer con desafíos reales y aportar desde mi experiencia.
+
+---
+
+## 📫 Contáctame
+
+- 📧 Email: [oscar.ignacio.gonzalez.g@gmail.com](mailto:oscar.ignacio.gonzalez.g@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/oscar-gonzalez-ing-info](https://www.linkedin.com/in/oscar-gonzalez-ing-info/)  
+- 🌐 Portafolio: En desarrollo — próximamente aquí 🎯
+
+---
+
+Gracias por visitar mi perfil. ¡Estoy abierto a nuevas oportunidades y colaboraciones! 🚀
+
