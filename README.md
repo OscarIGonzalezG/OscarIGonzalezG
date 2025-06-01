@@ -17,44 +17,57 @@
 
 ## 🌟 Sobre mí
 
-Soy Ingeniero en Informática con más de 5 años de experiencia en soporte TI, administración de infraestructura, servidores y redes. Actualmente, estoy en plena transición hacia el desarrollo de software, especializándome en backend y fullstack con tecnologías modernas como **Java Spring Boot**, **Next.js** y **TypeScript**.
+Soy Ingeniero en Informática con más de 5 años de experiencia en soporte TI, administración de infraestructura, servidores y redes. Actualmente en transición a desarrollo de software, especializándome en backend y fullstack con tecnologías modernas como **Java Spring Boot**, **Next.js** y **TypeScript**.
 
-Me apasiona crear soluciones prácticas y eficientes, automatizar procesos repetitivos y mantenerme siempre actualizado con las mejores prácticas y herramientas. Mi objetivo es crecer profesionalmente, contribuir en proyectos que generen impacto real y formar parte de equipos dinámicos donde aprender y aportar sean la norma.
+Me apasiona crear soluciones eficientes, automatizar procesos y seguir aprendiendo para aportar valor real a proyectos innovadores.
 
 ---
 
 ## 🛠️ Tecnologías & Herramientas
 
-| Tecnología      | Logo                                                                                 |
-|-----------------|--------------------------------------------------------------------------------------|
-| Java            | <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" />   |
-| Spring Boot     | <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="24" />   |
-| Node.js         | <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" />   |
-| Express         | <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="24" />   |
-| MongoDB         | <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24" />   |
-| Docker          | <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24" />   |
-| Git             | <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" />   |
-| TypeScript      | <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" />   |
-| Next.js         | <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" />   |
-| React           | <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" />   |
-| Tailwind CSS    | <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="24" />   |
+### Backend  
+- Java  
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" />  
+- Spring Boot  
+  <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="24" />  
+- Node.js  
+  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" />  
+- Express  
+  <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="24" />  
+- MongoDB  
+  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24" />  
+- Docker  
+  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24" />  
 
----
+### Frontend  
+- TypeScript  
+  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" />  
+- Next.js  
+  <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" />  
+- React  
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" />  
+- Tailwind CSS  
+  <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="24" />  
 
-## 🚀 Experiencia & Habilidades Clave
-
-- Soporte TI avanzado: administración y configuración de servidores Windows y Linux, redes, Active Directory y DNS.  
-- Gestión de infraestructura con Hyper-V y Microsoft 365.  
-- Desarrollo backend con Java Spring Boot y Node.js, creación de APIs REST eficientes y seguras.  
-- Frontend moderno con Next.js, React y TypeScript, creando interfaces limpias y responsivas.  
-- Automatización de tareas y scripts para mejorar procesos internos y reducir tiempos.  
-- Uso avanzado de control de versiones con Git, manejo colaborativo y flujos de trabajo ágiles.
+### Otras herramientas y conocimientos  
+- Git  
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" />  
+- Redes, servidores (Windows/Linux)  
+- Active Directory, DNS, Hyper-V  
+- Microsoft 365, Exchange Online  
+- Automatización con scripts  
 
 ---
 
 ## 🎯 Objetivo Profesional
 
-Convertirme en un desarrollador fullstack confiable, capaz de aportar con soluciones sólidas y escalables. Me enfoco en aprender constantemente, mejorar la calidad del software y colaborar en equipos multidisciplinarios para lograr productos de alto impacto.
+Convertirme en un desarrollador fullstack confiable, capaz de aportar soluciones sólidas y escalables. Enfocado en aprender constantemente, mejorar la calidad del software y colaborar en equipos multidisciplinarios.
+
+---
+
+## 💼 Abierto a nuevas oportunidades laborales
+
+Estoy buscando activamente nuevos desafíos donde pueda aplicar mis conocimientos y experiencia, y crecer profesionalmente como desarrollador backend y fullstack. ¡Conversemos!
 
 ---
 
@@ -67,6 +80,13 @@ Convertirme en un desarrollador fullstack confiable, capaz de aportar con soluci
 | Portafolio | [oscarigonzalezg.github.io/oscargonzalez](https://oscarigonzalezg.github.io/oscargonzalez/) | <img alt="Portfolio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" /> |
 
 ---
+
+<div align="center">
+
+### 🚀 “Construyendo software con pasión, precisión y visión.”
+
+</div>
+
 
 ## 📊 Estadísticas GitHub
 
