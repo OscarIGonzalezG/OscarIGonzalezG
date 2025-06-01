@@ -54,8 +54,8 @@ Estoy en proceso de reconversión hacia el **desarrollo backend y fullstack**, c
 
 ## 📫 Contacto
 
-- 📧 Email: [oscar.ignacio.gonzalez.g@gmail.com](mailto:oscar.ignacio.gonzalez.g@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/oscar-gonzalez-ing-info](https://www.linkedin.com/in/oscar-gonzalez-ing-info/)  
+- 📧 Email: [oscargonzalez.gon91@gmail.com](mailto:oscargonzalez.gon91@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171](www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171)  
 - 🌐 Portafolio: en desarrollo...
 
 ---
