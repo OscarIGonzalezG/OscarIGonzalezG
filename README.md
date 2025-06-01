@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Oscar González</h1>
-<h3 align="center">Ingeniero en Informática | Desarrollador Backend & Fullstack en crecimiento</h3>
+<h3 align="center">Ingeniero en Informática | Desarrollador Fullstack en crecimiento</h3>
 
 <p align="center">
   <a href="https://github.com/oscarigonzalezg" target="_blank" rel="noopener noreferrer">
@@ -17,7 +17,7 @@
 
 ## 🌟 Sobre mí
 
-Soy Ingeniero en Informática con más de 5 años de experiencia en soporte TI, administración de infraestructura, servidores y redes. Actualmente en transición a desarrollo de software, especializándome en backend y fullstack con tecnologías modernas como **Java Spring Boot**, **Next.js** y **TypeScript**.
+Soy Ingeniero en Informática con más de 5 años de experiencia en soporte TI, administración de infraestructura, servidores y redes. Actualmente en transición a desarrollo de software, especializándome como **desarrollador Fullstack** con tecnologías modernas como **Java Spring Boot**, **Next.js** y **TypeScript**.
 
 Me apasiona crear soluciones eficientes, automatizar procesos y seguir aprendiendo para aportar valor real a proyectos innovadores.
 
@@ -67,7 +67,7 @@ Convertirme en un desarrollador fullstack confiable, capaz de aportar soluciones
 
 ## 💼 Abierto a nuevas oportunidades laborales
 
-Estoy buscando activamente nuevos desafíos donde pueda aplicar mis conocimientos y experiencia, y crecer profesionalmente como desarrollador backend y fullstack. ¡Conversemos!
+Estoy buscando activamente nuevos desafíos donde pueda aplicar mis conocimientos y experiencia, y crecer profesionalmente como desarrollador fullstack. ¡Conversemos!
 
 ---
 
@@ -75,7 +75,7 @@ Estoy buscando activamente nuevos desafíos donde pueda aplicar mis conocimiento
 
 | Medio      | Información | Icono                                                                                 |
 |------------|-------------|--------------------------------------------------------------------------------------|
-| Email      | ozkrgonzalez1201@gmail.com | <img alt="Email" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="24" /> |
+| Email      | [ozkrgonzalez1201@gmail.com](mailto:ozkrgonzalez1201@gmail.com) | <img alt="Email" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="24" /> |
 | LinkedIn   | [linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171](https://www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171/) | <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" /> |
 | Portafolio | [oscarigonzalezg.github.io/oscargonzalez](https://oscarigonzalezg.github.io/oscargonzalez/) | <img alt="Portfolio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" /> |
 
@@ -86,12 +86,4 @@ Estoy buscando activamente nuevos desafíos donde pueda aplicar mis conocimiento
 ### 🚀 “Construyendo software con pasión, precisión y visión.”
 
 </div>
-
-
-## 📊 Estadísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oscarigonzalezg&show_icons=true&theme=dark" alt="Oscar González GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarigonzalezg&layout=compact&theme=dark" alt="Oscar González GitHub Top Languages" />
-</p>
 
