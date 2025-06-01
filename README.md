@@ -17,7 +17,7 @@
 
 ## 🌟 Sobre mí
 
-Soy Ingeniero en Informática con más de 5 años de experiencia en soporte TI, administración de infraestructura, servidores y redes. Actualmente en transición a desarrollo de software, especializándome como **desarrollador Fullstack** con tecnologías modernas como **Java Spring Boot**, **Next.js** y **TypeScript**.
+Soy Ingeniero en Informática con más de 5 años de experiencia en soporte TI, administración de infraestructura, servidores y redes. Actualmente en transición a desarrollo de software, especializándome como **desarrollador Fullstack** con tecnologías modernas como **Java Spring Boot**, **Next.js**, **TypeScript** y **PostgreSQL**.
 
 Me apasiona crear soluciones eficientes, automatizar procesos y seguir aprendiendo para aportar valor real a proyectos innovadores.
 
@@ -36,6 +36,8 @@ Me apasiona crear soluciones eficientes, automatizar procesos y seguir aprendien
   <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="24" />  
 - MongoDB  
   <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24" />  
+- PostgreSQL  
+  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" />  
 - Docker  
   <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24" />  
 
@@ -73,11 +75,9 @@ Estoy buscando activamente nuevos desafíos donde pueda aplicar mis conocimiento
 
 ## 📫 Contacto
 
-| Medio      | Información | 
-|------------|-------------|
-| Email      | [ozkrgonzalez1201@gmail.com](mailto:ozkrgonzalez1201@gmail.com)|
-| LinkedIn   | [linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171](https://www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171/)|
-| Portafolio | [oscarigonzalezg.github.io/oscargonzalez](https://oscarigonzalezg.github.io/oscargonzalez/)|
+- <img alt="Email" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="20" /> **Email:** [ozkrgonzalez1201@gmail.com](mailto:ozkrgonzalez1201@gmail.com)  
+- <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" /> **LinkedIn:** [linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171](https://www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171/)  
+- <img alt="Portfolio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" /> **Portafolio:** [oscarigonzalezg.github.io/oscargonzalez](https://oscarigonzalezg.github.io/oscargonzalez/)  
 
 ---
 
@@ -86,4 +86,5 @@ Estoy buscando activamente nuevos desafíos donde pueda aplicar mis conocimiento
 ### 🚀 “Construyendo software con pasión, precisión y visión.”
 
 </div>
+
 
