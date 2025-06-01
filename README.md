@@ -73,11 +73,11 @@ Estoy buscando activamente nuevos desafíos donde pueda aplicar mis conocimiento
 
 ## 📫 Contacto
 
-| Medio      | Información | Icono                                                                                 |
-|------------|-------------|--------------------------------------------------------------------------------------|
-| Email      | [ozkrgonzalez1201@gmail.com](mailto:ozkrgonzalez1201@gmail.com) | <img alt="Email" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="24" /> |
-| LinkedIn   | [linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171](https://www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171/) | <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" /> |
-| Portafolio | [oscarigonzalezg.github.io/oscargonzalez](https://oscarigonzalezg.github.io/oscargonzalez/) | <img alt="Portfolio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" /> |
+| Medio      | Información | 
+|------------|-------------|
+| Email      | [ozkrgonzalez1201@gmail.com](mailto:ozkrgonzalez1201@gmail.com)|
+| LinkedIn   | [linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171](https://www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171/)|
+| Portafolio | [oscarigonzalezg.github.io/oscargonzalez](https://oscarigonzalezg.github.io/oscargonzalez/)|
 
 ---
 
