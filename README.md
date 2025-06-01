@@ -15,55 +15,64 @@
 
 ---
 
-## 💡 Sobre mí
+### 🧰 Tecnologías y herramientas
 
-Soy **Ingeniero en Informática** con más de 5 años de experiencia en soporte TI, administración de infraestructura, servidores y redes. Actualmente, estoy haciendo una transición al mundo del desarrollo de software, enfocándome en tecnologías modernas como **Java Spring Boot**, **Next.js** y **TypeScript**. Me apasiona aprender, automatizar procesos y crear soluciones útiles.
+**Backend:**
 
----
+- Java  
+  <img alt="Java" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
+- Spring Boot  
+  <img alt="Spring Boot" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />  
+- Node.js  
+  <img alt="Node.js" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
+- Express  
+  <img alt="Express" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />  
+- MongoDB  
+  <img alt="MongoDB" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />  
+- Docker  
+  <img alt="Docker" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />  
 
-## 🧰 Tecnologías y herramientas
+**Frontend:**
 
-### 🔧 Backend & Infraestructura
-<p>
-  <img alt="Java" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="Spring Boot" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img alt="Node.js" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="Express" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img alt="MongoDB" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img alt="Docker" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-</p>
+- TypeScript  
+  <img alt="TypeScript" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  
+- Next.js  
+  <img alt="Next.js" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />  
+- React  
+  <img alt="React" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
+- Tailwind CSS  
+  <img alt="Tailwind CSS" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />  
 
-### 🎨 Frontend
-<p>
-  <img alt="TypeScript" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="Next.js" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img alt="React" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="Tailwind CSS" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
-</p>
+**Otros conocimientos:**
 
-### 🧠 Otros conocimientos
-- Redes, servidores (Windows/Linux)
-- Active Directory, DNS, Hyper-V
-- Microsoft 365, Exchange Online
-- Automatización con scripts
-- Git y control de versiones
-
----
-
-## 🎯 Objetivo profesional
-
-Estoy en proceso de reconversión hacia el **desarrollo backend y fullstack**, combinando mi experiencia técnica en infraestructura con mis nuevos conocimientos en desarrollo. Busco integrarme a equipos donde pueda seguir aprendiendo, aportar valor y evolucionar como desarrollador.
+- Redes, servidores (Windows/Linux)  
+- Active Directory, DNS, Hyper-V  
+- Microsoft 365, Exchange Online  
+- Automatización con scripts  
+- Git y control de versiones  
 
 ---
 
-## 📫 Contacto
+```plaintext
+// ----------------------------------------------
+// 👨‍💻 Oscar González
+// Ingeniero en Informática | Desarrollador Backend & Fullstack
+// ----------------------------------------------
 
-- 📧 Email: [oscargonzalez.gon91@gmail.com](mailto:oscargonzalez.gon91@gmail.com)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171/](https://www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171/)  
-- 🌐 Portafolio: [En migracion a otra tecnologia (next.js, Tailwind)](https://oscarigonzalezg.github.io/oscargonzalez/)
+// Sobre mí:
+Soy Ingeniero en Informática con 5+ años en soporte TI, administración de servidores, redes y seguridad.
+Actualmente haciendo transición a desarrollo backend y fullstack con Java Spring Boot, Next.js y TypeScript.
+Me gusta automatizar procesos, crear soluciones eficientes y aprender tecnologías modernas.
 
----
+// Objetivo Profesional:
+Integrarme a equipos donde pueda aportar con mi experiencia técnica y seguir aprendiendo desarrollo de software
+para crecer como profesional y aportar valor real a proyectos.
 
-Gracias por pasar por mi perfil. ¡Estoy abierto a nuevas oportunidades y colaboraciones! 🚀
+// Contacto:
+Email: ozkrgonzalez1201@gmail.com
+LinkedIn: https://www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171/
+Portafolio: En migracion a otra tecnologia (next.js, Tailwind): https://oscarigonzalezg.github.io/oscargonzalez/
+
+// ¡Gracias por visitar mi perfil! ¡Estoy abierto a nuevas oportunidades y colaboraciones! 🚀
 
 
