@@ -9,7 +9,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ozkrgonzalez1201@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img alt="Gmail" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" />
   </a>
 </p>
 
@@ -75,7 +75,7 @@ Estoy buscando activamente nuevos desafíos donde pueda aplicar mis conocimiento
 
 ## 📫 Contacto
 
-- <img alt="Email" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="20" /> **Email:** [ozkrgonzalez1201@gmail.com](mailto:ozkrgonzalez1201@gmail.com)  
+- <img alt="Gmail" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" /> **Email:** [ozkrgonzalez1201@gmail.com](mailto:ozkrgonzalez1201@gmail.com)  
 - <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" /> **LinkedIn:** [linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171](https://www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171/)  
 - <img alt="Portfolio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" /> **Portafolio:** [oscarigonzalezg.github.io/oscargonzalez](https://oscarigonzalezg.github.io/oscargonzalez/)  
 
