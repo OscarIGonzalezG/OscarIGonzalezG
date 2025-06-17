@@ -51,7 +51,7 @@ Me apasiona crear soluciones eficientes, automatizar procesos y seguir aprendien
 - Tailwind CSS  
   <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="24" />
   - Angular  
-  <img alt="Tailwind CSS" src="https://raw.https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width="24" />  
+  <img alt="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="24" />  
 
 ### Otras herramientas y conocimientos  
 - Git  
