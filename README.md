@@ -17,7 +17,7 @@
 
 ## 🌟 Sobre mí
 
-Soy Ingeniero en Informática con más de 5 años de experiencia en soporte TI, administración de infraestructura, servidores y redes. Actualmente en transición a desarrollo de software, especializándome como **desarrollador Fullstack** con tecnologías modernas como **Java Spring Boot**, **Next.js**, **TypeScript** y **PostgreSQL**.
+Soy Ingeniero en Informática con más de 5 años de experiencia en soporte TI, administración de infraestructura, servidores y redes. Actualmente en transición a desarrollo de software, especializándome como **desarrollador Fullstack** con tecnologías modernas como **Java Spring Boot**,**Angular**, **Next.js**, **TypeScript** y **PostgreSQL**.
 
 Me apasiona crear soluciones eficientes, automatizar procesos y seguir aprendiendo para aportar valor real a proyectos innovadores.
 
