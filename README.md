@@ -49,7 +49,9 @@ Me apasiona crear soluciones eficientes, automatizar procesos y seguir aprendien
 - React  
   <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" />  
 - Tailwind CSS  
-  <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="24" />  
+  <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="24" />
+  - Angular  
+  <img alt="Tailwind CSS" src="https://raw.https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" width="24" />  
 
 ### Otras herramientas y conocimientos  
 - Git  
