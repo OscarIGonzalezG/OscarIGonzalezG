@@ -1,85 +1,45 @@
-<h1 align="center">👨‍💻 Oscar González</h1>
-<h3 align="center">Ingeniero en Informática | Desarrollador Fullstack en crecimiento</h3>
+<h1 align="center">Hola 👋, soy Oscar Ignacio González</h1>
+<h3 align="center">Ingeniero en Informática | Desarrollador Web Full-Stack Junior</h3>
 
 <p align="center">
-  <a href="https://github.com/oscarigonzalezg" target="_blank" rel="noopener noreferrer">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/oscarigonzalezg?style=social" />
-  </a>
-  <a href="https://www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171/" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ozkrgonzalez1201@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img alt="Gmail" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" />
-  </a>
+  <img src="https://img.shields.io/badge/Code-Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tools-Git-181717?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## 🌟 Sobre mí
-
-Soy Ingeniero en Informática con más de 5 años de experiencia en soporte TI, administración de infraestructura, servidores y redes. Actualmente en transición a desarrollo de software, especializándome como **desarrollador Fullstack** con tecnologías modernas como **Java Spring Boot**, **Angular**, **Next.js**, **TypeScript** y **PostgreSQL**.
-
-Me apasiona crear soluciones eficientes, automatizar procesos y seguir aprendiendo para aportar valor real a proyectos innovadores.
+🎓 Soy un profesional de TI que está dando el salto al desarrollo web, aplicando mis conocimientos en proyectos reales.  
+💻 Actualmente trabajando con Angular, Next.js, Spring Boot y PostgreSQL.  
+🚀 Apasionado por crear soluciones útiles, escalables y enfocadas en el usuario.
 
 ---
 
-## 🛠️ Tecnologías & Herramientas
+### 🧰 Stack actual
 
-### Backend  
-- Java  
-  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" />  
-- Spring Boot  
-  <img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="24" />  
-- Node.js  
-  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" />  
-- Express  
-  <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="24" />  
-- MongoDB  
-  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24" />  
-- PostgreSQL  
-  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" />  
-- Docker  
-  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24" />  
-
-### Frontend  
-- TypeScript  
-  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" />  
-- Next.js  
-  <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" />  
-- React  
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" />  
-- Tailwind CSS  
-  <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="24" />
-- Angular  
-  <img alt="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="24" />  
-
-### Otras herramientas y conocimientos  
-- Git  
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" />  
-- Redes, servidores (Windows/Linux)  
-- Active Directory, DNS, Hyper-V  
-- Microsoft 365, Exchange Online  
-- Automatización con scripts  
+- **Frontend:** Angular · Next.js · Tailwind CSS · TypeScript  
+- **Backend:** Node.js · Express · Java con Spring Boot  
+- **Base de datos:** PostgreSQL · MySQL  
+- **Herramientas:** Git · GitHub · Postman · Figma · Notion
 
 ---
 
-## 🎯 Objetivo Profesional
+### 📌 Proyectos destacados
 
-Convertirme en un desarrollador fullstack confiable, capaz de aportar soluciones sólidas y escalables. Enfocado en aprender constantemente, mejorar la calidad del software y colaborar en equipos multidisciplinarios.
-
----
-
-## 💼 Abierto a nuevas oportunidades laborales
-
-Estoy buscando activamente nuevos desafíos donde pueda aplicar mis conocimientos y experiencia, y crecer profesionalmente como desarrollador fullstack. ¡Conversemos!
+- 🛍️ **Ecommerce de ropa** – Login, panel de usuario, gestión de productos  
+- 🏠 **Sistema solidario para iglesias** – Donaciones, inventario y entregas  
+- 🏃‍♂️ **SportMeet** – Red social para deportistas amateur
 
 ---
 
-## 📫 Contacto
+### 📫 ¿Dónde encontrarme?
 
-- <img alt="Gmail" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" /> **Email:** [ozkrgonzalez1201@gmail.com](mailto:ozkrgonzalez1201@gmail.com)  
-- <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" /> **LinkedIn:** [linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171](https://www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171/)  
-- <img alt="Portfolio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" /> **Portafolio:** [oscarigonzalezg.github.io/oscargonzalez](https://oscarigonzalezg.github.io/oscargonzalez/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171/)  
+[![Portafolio](https://img.shields.io/badge/Portafolio-Online-green?style=flat&logo=vercel&logoColor=white)](https://oscarigonzalezg.github.io/oscargonzalez/)  
+[![Email](https://img.shields.io/badge/Email-ContactMe-informational?style=flat&logo=gmail)](mailto:ozkrgonzalez1201@gmail.com)
+
 
 ---
 
