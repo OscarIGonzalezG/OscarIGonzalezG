@@ -2,7 +2,6 @@
 <h3 align="center">Ingeniero en Informática | Desarrollador Web Full-Stack Junior</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Code-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Backend-Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -12,7 +11,7 @@
 ---
 
 🎓 Soy un profesional de TI que está dando el salto al desarrollo web, aplicando mis conocimientos en proyectos reales.  
-💻 Actualmente trabajando con Angular, Next.js, Spring Boot y PostgreSQL.  
+💻 Actualmente trabajando con Next.js, Spring Boot y PostgreSQL.  
 🚀 Apasionado por crear soluciones útiles, escalables y enfocadas en el usuario.
 
 ---
