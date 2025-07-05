@@ -19,7 +19,7 @@
 
 ### 🧰 Stack actual
 
-- **Frontend:** Angular · Next.js · Tailwind CSS · TypeScript  
+- **Frontend:** Next.js · Tailwind CSS · TypeScript  
 - **Backend:** Node.js · Express · Java con Spring Boot  
 - **Base de datos:** PostgreSQL · MySQL  
 - **Herramientas:** Git · GitHub · Postman · Figma · Notion
