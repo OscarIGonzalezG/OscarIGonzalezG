@@ -2,6 +2,7 @@
 <h3 align="center">Ingeniero en Informática | Desarrollador Web Full-Stack Junior</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Code-Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Code-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Backend-Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -18,18 +19,10 @@
 
 ### 🧰 Stack actual
 
-- **Frontend:** Next.js · Tailwind CSS · TypeScript  
+- **Frontend:** Angular · Next.js · Tailwind CSS · TypeScript  
 - **Backend:** Node.js · Express · Java con Spring Boot  
 - **Base de datos:** PostgreSQL · MySQL  
 - **Herramientas:** Git · GitHub · Postman · Figma · Notion
-
----
-
-### 📌 Proyectos destacados
-
-- 🛍️ **Ecommerce de ropa** – Login, panel de usuario, gestión de productos  
-- 🏠 **Sistema solidario para iglesias** – Donaciones, inventario y entregas  
-- 🏃‍♂️ **SportMeet** – Red social para deportistas amateur
 
 ---
 
