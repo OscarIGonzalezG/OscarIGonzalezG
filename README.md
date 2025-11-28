@@ -29,7 +29,7 @@
 ### 📫 ¿Dónde encontrarme?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171/)  
-[![Portafolio](https://img.shields.io/badge/Portafolio-Online-green?style=flat&logo=vercel&logoColor=white)](https://oscarigonzalezg.github.io/oscargonzalez/)  
+[![Portafolio](https://img.shields.io/badge/Portafolio-Online-green?style=flat&logo=vercel&logoColor=white)](https://oscarigdevportfolio.netlify.app/)  
 [![Email](https://img.shields.io/badge/Email-ContactMe-informational?style=flat&logo=gmail)](mailto:ozkrgonzalez1201@gmail.com)
 
 
