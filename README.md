@@ -29,6 +29,7 @@ const developer = {
   passion: "Construyendo software con pasión, precisión y visión."
 };
 
+```
 <div align="center">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DTU_USUARIO%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D00c8ff%26text_color%3Dc9d1d9%26icon_color%3D00c8ff" height="150" alt="stats" />
 ​<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/profile-details%3Fusername%3DTU_USUARIO%26theme%3Ddracula" alt="metrics" />
