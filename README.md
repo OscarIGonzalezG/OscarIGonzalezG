@@ -92,14 +92,24 @@ Proyecto Full Stack enfocado en el desarrollo de una plataforma SaaS real, separ
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OscarIGonzalezG&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OscarIGonzalezG&theme=tokyonight&hide_border=true" width="49%" />
+ 
 </div>
 
 ---
 
-<div align="center">
-  <h3>📫 Contacto</h3>
-  <code>ozkrgonzalez1201@gmail.com</code>
+
+## 📫 Contacto
+
+Si quieres conversar sobre proyectos, oportunidades o colaboración técnica:
+
+- ✉️ **Email:** ozkrgonzalez1201@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171/  
+- 🌐 **Portafolio:** https://oscarigdevportfolio.netlify.app/
+
+---
+
+🧠 *Interesado en seguir creciendo como desarrollador Full Stack, participando en proyectos reales y aprendiendo buenas prácticas de arquitectura y desarrollo de software.*
+
   <br /><br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
