@@ -30,22 +30,11 @@ const developer = {
 };
 
 ```
-⚡ Proyectos Principales (Click para expandir)
-<details> <summary><b>📦 Inventario Solidario (SaaS)</b> - <i>NestJS & PostgreSQL</i></summary>
+🔭 Current Focus
+<table> <tr> <td width="60%"> <h3 style="margin-bottom: 0;">🛒 SimpleShop (SaaS)</h3> <p><i>Plataforma Multi-tenant de Gestión E-commerce</i></p> <p> Actualmente estoy dedicando mi ingeniería a construir <b>SimpleShop</b>, un sistema SaaS diseñado para ser escalable y robusto. </p> <p> <b>Desafíos técnicos:</b> Arquitectura hexagonal, gestión de inquilinos (multi-tenancy) y optimización de base de datos. </p> </td> <td width="40%" align="center"> <b>Tech Stack</b>
 
 
-<ul> <li><b>Arquitectura:</b> Sistema Multi-tenant diseñado para escalabilidad.</li> <li><b>Backend:</b> API RESTful con NestJS, TypeORM y control de roles (RBAC).</li> <li><b>Desafío:</b> Optimización de consultas SQL complejas para reportes en tiempo real.</li> </ul> </details>
 
-<details> <summary><b>🛒 SimpleShop Backend</b> - <i>Node.js & Express</i></summary>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnestjs,angular,postgres,docker%26theme%3Ddark%26perline%3D4" /> </td> </tr> </table>
 
-
-<ul> <li><b>Core:</b> Arquitectura hexagonal para desacoplar lógica de negocio.</li> <li><b>Seguridad:</b> Implementación de JWT y validaciones con Zod.</li> </ul> </details>
-
-📟 System Output
-<pre> <span style="color: #4CAF50">➜</span> <span style="color: #00c8ff">~</span> cd /network/connections <span style="color: #4CAF50">➜</span> <span style="color: #00c8ff">connections</span> ls -la
-
-<span style="color: #c9d1d9">total 3</span> <span style="color: #c9d1d9">drwxr-xr-x 2 oscar staff 64 Dec 18 14:00 .</span> <span style="color: #c9d1d9">-rwxr-xr-x 1 oscar staff 128 Dec 18 14:00</span> <a href="https://www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171/"><b>linkedin_profile.sh</b></a> <span style="color: #c9d1d9">-rwxr-xr-x 1 oscar staff 128 Dec 18 14:00</span> <a href="https://oscarigdevportfolio.netlify.app/"><b>web_portfolio.js</b></a> <span style="color: #c9d1d9">-rw-r--r-- 1 oscar staff 64 Dec 18 14:00</span> <a href="mailto:ozkrgonzalez1201@gmail.com"><b>contact_me.txt</b></a>
-
-<span style="color: #4CAF50">➜</span> <span style="color: #00c8ff">connections</span> echo "Ready to code." </pre>
-
-<div align="center"> <sub><i>End of buffer.</i></sub> </div>
+<div align="center"> <a href="https://www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171/"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /> </a> &nbsp; <a href="mailto:ozkrgonzalez1201@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> &nbsp; <a href="https://oscarigdevportfolio.netlify.app/"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-101010%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite" /> </a> </div>
