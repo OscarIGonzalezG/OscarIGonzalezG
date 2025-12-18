@@ -30,8 +30,22 @@ const developer = {
 };
 
 ```
-<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DOscarIGonzalezG%26show_icons%3Dtrue%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3D00c8ff%26text_color%3Dc9d1d9%26icon_color%3D00c8ff" height="150" alt="stats" />
+⚡ Proyectos Principales (Click para expandir)
+<details> <summary><b>📦 Inventario Solidario (SaaS)</b> - <i>NestJS & PostgreSQL</i></summary>
 
-<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/profile-details%3Fusername%3DOscarIGonzalezG%26theme%3Ddracula" alt="metrics" /> </div>
 
-<div align="center"> <a href="https://www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171/"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Conectar-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /> </a> <a href="mailto:ozkrgonzalez1201@gmail.com"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contactar-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /> </a> <a href="https://oscarigdevportfolio.netlify.app/"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Web-Portfolio-111111%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite" /> </a> </div>
+<ul> <li><b>Arquitectura:</b> Sistema Multi-tenant diseñado para escalabilidad.</li> <li><b>Backend:</b> API RESTful con NestJS, TypeORM y control de roles (RBAC).</li> <li><b>Desafío:</b> Optimización de consultas SQL complejas para reportes en tiempo real.</li> </ul> </details>
+
+<details> <summary><b>🛒 SimpleShop Backend</b> - <i>Node.js & Express</i></summary>
+
+
+<ul> <li><b>Core:</b> Arquitectura hexagonal para desacoplar lógica de negocio.</li> <li><b>Seguridad:</b> Implementación de JWT y validaciones con Zod.</li> </ul> </details>
+
+📟 System Output
+<pre> <span style="color: #4CAF50">➜</span> <span style="color: #00c8ff">~</span> cd /network/connections <span style="color: #4CAF50">➜</span> <span style="color: #00c8ff">connections</span> ls -la
+
+<span style="color: #c9d1d9">total 3</span> <span style="color: #c9d1d9">drwxr-xr-x 2 oscar staff 64 Dec 18 14:00 .</span> <span style="color: #c9d1d9">-rwxr-xr-x 1 oscar staff 128 Dec 18 14:00</span> <a href="https://www.linkedin.com/in/oscar-ignacio-gonzalez-gonzalez-911369171/"><b>linkedin_profile.sh</b></a> <span style="color: #c9d1d9">-rwxr-xr-x 1 oscar staff 128 Dec 18 14:00</span> <a href="https://oscarigdevportfolio.netlify.app/"><b>web_portfolio.js</b></a> <span style="color: #c9d1d9">-rw-r--r-- 1 oscar staff 64 Dec 18 14:00</span> <a href="mailto:ozkrgonzalez1201@gmail.com"><b>contact_me.txt</b></a>
+
+<span style="color: #4CAF50">➜</span> <span style="color: #00c8ff">connections</span> echo "Ready to code." </pre>
+
+<div align="center"> <sub><i>End of buffer.</i></sub> </div>
