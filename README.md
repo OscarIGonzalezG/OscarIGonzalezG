@@ -27,7 +27,7 @@
 
 ## 👨‍💻 **Sobre Mí**
 
-```Typescript
+```typescript
 const oscar = {
     rol: "Ingeniero en Informática | Full Stack Dev",
     ubicacion: "Santiago, Chile 📍",
@@ -42,7 +42,9 @@ const oscar = {
     
     pasion: "Construyendo software con pasión, precisión y visión. ⚡"
 };
+
 ```
+
 🚀 Proyecto Actual (Focus)
 Estado: En desarrollo activo. Enfocado en escalabilidad y gestión multi-inquilino.
 
@@ -91,4 +93,3 @@ Herramientas & DevOps
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"> </div>
-
