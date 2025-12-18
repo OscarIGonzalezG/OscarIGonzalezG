@@ -46,44 +46,37 @@ const oscar = {
 
 ## 🚀 Proyecto Principal — SimpleShop (Full Stack SaaS)
 
-<table>
-  <tr>
-    <td width="100%">
-      <h3 align="center">🛒 SimpleShop — Plataforma SaaS Full Stack</h3>
+### 🛒 SimpleShop — Plataforma SaaS Full Stack
 
-      <div align="center">
-        <a href="https://github.com/OscarIGonzalezG/simpleshop-backend" target="_blank">
-          <img src="https://img.shields.io/badge/Backend-NestJS-FF6B6B?style=for-the-badge&logo=nestjs&logoColor=white" />
-        </a>
-        <a href="https://github.com/OscarIGonzalezG/simpleshop-frontend" target="_blank">
-          <img src="https://img.shields.io/badge/Frontend-Angular_20-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-        </a>
-      </div>
+[![Backend](https://img.shields.io/badge/Backend-NestJS-FF6B6B?style=for-the-badge&logo=nestjs&logoColor=white)](https://github.com/OscarIGonzalezG/simpleshop-backend)
+[![Frontend](https://img.shields.io/badge/Frontend-Angular_20-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/OscarIGonzalezG/simpleshop-frontend)
 
-      <br />
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-20-DD0031?style=flat&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-      <div align="center">
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Angular-20-DD0031?style=flat&logo=angular&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-      </div>
+**Descripción**  
+Proyecto Full Stack enfocado en el desarrollo de una plataforma SaaS real, separando frontend y backend con una arquitectura clara, modular y escalable.
 
-      <p>
-        <strong>Descripción:</strong> Proyecto Full Stack enfocado en el desarrollo de una plataforma SaaS real, separando frontend y backend con una arquitectura clara.
-      </p>
+| Área | Implementación |
+|----|---- |
+| **Backend** | NestJS · Arquitectura modular · API REST |
+| **Base de datos** | PostgreSQL |
+| **Infraestructura** | Docker & Docker Compose |
+| **Frontend** | Angular 20 · SPA |
+| **Comunicación** | Consumo de API REST |
+| **Enfoque** | Buenas prácticas · Organización · Escalabilidad |
 
-      <p align="left">
-        ✅ Backend con NestJS y arquitectura modular<br/>
-        ✅ Persistencia de datos con PostgreSQL<br/>
-        ✅ Entorno de desarrollo con Docker Compose<br/>
-        ✅ Frontend SPA construido con Angular 20<br/>
-        ✅ Consumo de API REST y manejo de estados<br/>
-        ✅ Enfoque en buenas prácticas y organización del código
-      </p>
-    </td>
-  </tr>
-</table>
+---
+
+### ✅ Qué demuestra este proyecto
+- Backend desacoplado con NestJS  
+- Persistencia de datos relacional (PostgreSQL)  
+- Entorno reproducible con Docker Compose  
+- SPA moderna en Angular  
+- Comunicación clara entre capas  
+- Enfoque en código mantenible y ordenado  
 
 ---
 
